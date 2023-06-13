@@ -98,8 +98,17 @@ session_start();
     <div class="container" style="padding: 4% 0% 8% 0%">
       <h1 class="text-center text-success">About Us</h1>
       <hr class="rs_hr" color=green>
-      <p class="text-center-w">PayoWork is a global freelancing platform and social networking where businesses and independent professionals connect and collaborate remotely. In PayoWork, businesses can hire freelancers to work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.
-      In the ever-evolving world of remote work and freelancing, PayoWork has emerged as a leading platform, connecting talented professionals with a wide range of job opportunities. Whether you prefer working from the comfort of your own home or engaging in offline projects, PayoWork offers a seamless experience for freelancers and clients alike.
+      <p class="text-center-w">PayoWork is a unique freelancing platform in Nepal that caters to individuals seeking one-time work 
+         opportunities, both online and offline. This innovative platform recognizes that not all projects can be accomplished remotely 
+         and offers a marketplace where individuals in need of assistance in any sector can post their requirements. 
+         Whether it's a task that requires physical presence or a project that can be completed remotely, PayoWork provides a 
+         platform for both job posters and interested freelancers to connect and collaborate.<br>
+              <br>
+         By enabling individuals to post their specific work requirements, PayoWork facilitates a seamless process for interested 
+         freelancers to apply and join these projects. Freelancers can browse through the posted tasks and projects, 
+         choose the ones that align with their skills and interests, and earn a certain sum upon successful completion. 
+         This approach opens up opportunities for freelancers in various sectors to find work that suits their preferences, 
+         whether it's online or offline, providing them with a flexible and diverse range of options to earn income.
       </p>
 
     </div>

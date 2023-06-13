@@ -191,49 +191,49 @@ include("config.php");
 
 
     <!-- Page Content -->
-   <div class="container-fluid bg-dark">   
-       <div class="container text-white" style="padding: 5% 0% 8% 0%;">
+    <div class="container-fluid bg-dark">   
+       <div class="container text-white" style="padding: 5% 0% 4% 0%;">
        	<div class="row">
        		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-       			<h2>HireSeller</h2>			
+       			<h2>PayoWork</h2>			
        			<hr width="100%" color=white>
        			<p>
-       				Stay On Your Track <br>
-       				Reach Your Goal and <br>
-       				Become Succesful In <br>
-       				Your Track and Claim<br>
-       				Become Succesful In <br>
+       				Versatile freelancing platform <br>
+       				that offers a wide range of <br>
+       				both online and offline work  <br>
+       				opportunities for individuals <br>
+       				seeking flexible employment.<br>
        			</p>
        		</div>
        		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-       			<h2>HireSeller</h2>
+       			<h2>For Clients</h2>
        			<hr width="100%" color=white>
        			<p>
-       				Stay On Your Track <br>
-       				Reach Your Goal and <br>
-       				Become Succesful In <br>
-       				Your Track and Claim<br>
-       				Become Succesful In <br>
+                Find Freelancers<br>
+                Post Project<br>
+                Privacy Policy<br>
+       				<!-- Your Track and Claim<br>
+       				Become Succesful In <br> -->
        			</p>
        		</div>
        		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-       			<h2>Address</h2>		
+       			<h2>Call Us</h2>		
        			<hr width="100%" color=white>
        			<p>
-       				AIUB Permanent Campus<br>
-       				k/160, Kuril, Vatara<br>
-       				Dhaka-1229<br>
-       				Bangladesh<br>
-       				01700000000
+       				Bijeswori<br>
+       				Sainik Awas Marga - 15<br>
+       				Kathmandu 44600<br>
+       				Nepal<br>
+       				+977-9860762545
        			</p>
        		</div>
        		<div class="col-lg-3 col-md-3 col-sm-6 col-12">
-       			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14600.265022759153!2d90.41790391977541!3d23.816242900000013!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c711d13bbec7%3A0xc47f7c3e8e2263f2!2sAmerican+International+University-Bangladesh!5e0!3m2!1sen!2sbd!4v1543597376859" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d220.75989523238164!2d85.29897994838544!3d27.712397548022437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snp!4v1686626338987!5m2!1sen!2snp" width="275" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
        		</div>
 
        	</div>
        		<br>
-       	<p style="text-align: center;" class="text-white">© 2015 - 2018 HireSeller® Global Inc.</p>
+       	<p style="text-align: center; v" class="text-white">© 2023 PayoWork® Nepal Inc.</p>
        </div>
  </div>
 

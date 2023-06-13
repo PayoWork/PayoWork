@@ -71,7 +71,18 @@ element.style{
     padding: 5% 0% 5% 0% !important;
 }
 
+.text-success-category{
+    color: #176C9C !important;
+}
 
+.btn-success{
+    background-color: #68CDEB !important;
+    border-color: #68CDEB !important;
+    color: #fff !important;
+}
+.signup{
+    font-weight: bold;
+}
 
 
 
@@ -182,11 +193,11 @@ div#alljob {
 
 
 a#jobs {
-    color: #28a745;
+    color: #68CDEB;
 }
 
 a#jobs:hover {
-    color: green;
+    color: #68CDEB;
 }
 
 .mess {
@@ -196,4 +207,8 @@ a#jobs:hover {
     font-size: 30px;
     border: 2px solid white;
     padding: 1%;
+}
+
+a{
+    color: #252525;
 }
