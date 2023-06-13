@@ -44,7 +44,7 @@ $conn->close();
     <meta name="author" content="">
 
     <title>Logo Nav - Start Bootstrap Template</title>
-    <link rel="shortcut icon" type="image/x-icon" href="../resources/icon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="../resources/work.png" />
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

@@ -16,7 +16,7 @@ $state = $_POST['state'];
 $country = $_POST['country'];
 $zip_code = $_POST['zip_code'];
 $nid = $_POST['nid'];
-$pass = md5($_POST['password']);
+$pass = $_POST['password'];
 $role = $_POST['role'];
 $sql = "INSERT INTO freelancer (username, name, last_name, phone, email, password, dob, address, state, country, zipcode, nationalid, jobdone, role, balance) VALUES ('$user', '$fname', '$lname', '$phone', '$email', '$pass', '$dob', '$address', '$state', '$country', '$zip_code', '$nid', '0', '$role', '0')";
 

@@ -42,6 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 <html>
 <head>
     <title>Client</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../resources/work.png" />
 </head>
 <body>
 <br>

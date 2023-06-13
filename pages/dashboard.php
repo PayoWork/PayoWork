@@ -17,10 +17,11 @@ if (!(isset($_SESSION['loggedUser']))){
     <meta name="author" content="">
 
     <title>Logo Nav - Start Bootstrap Template</title>
-    <link rel="shortcut icon" type="image/x-icon" href="../resources/icon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="../resources/work.png" />
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/new.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../css/hs_style.css" rel="stylesheet">
@@ -152,7 +153,7 @@ if (!(isset($_SESSION['loggedUser']))){
     <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
       <div class="container">
         <a class="navbar-brand" href="../index.php">
-          <img src="../resources/logo_light.png" width="160" height="50" alt="">
+          <img src="../resources/payowork.png" width="160" height="100" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -190,13 +191,13 @@ if (!(isset($_SESSION['loggedUser']))){
 			  <h3 class="text-left text-success">Choose Catagory</h3>
 			  
 			  <a href="#" id="job" onclick="showResult('all')"><p>All Jobs</p></a>
-			  <a href="#" id="web" onclick="showResult('web')"><p>Web Design</p></a>
-			  <a href="#" id="graphics" onclick="showResult('graphics')"><p>Graphics Design</p></a>
-			  <a href="#" id="content" onclick="showResult('content')"><p>Content Writing</p></a>
-			  <a href="#" id="marketing" onclick="showResult('marketing')"><p>Digital Marketing</p></a>
-			  <a href="#" id="seo" onclick="showResult('seo')"><p>SEO</p></a>
-			  <a href="#" id="mobile" onclick="showResult('mobile')"><p>Mobile Development</p></a>
-			  <a href="#" id="desktop" onclick="showResult('desktop')"><p>Desktop Apps</p></a>
+			  <a href="#" id="Category_1" onclick="showResult('Category_1')"><p>Category_1</p></a>
+			  <a href="#" id="Category_2" onclick="showResult('Category_2')"><p>Category_2</p></a>
+			  <a href="#" id="Category_3" onclick="showResult('Category_3')"><p>Category_3</p></a>
+			  <a href="#" id="Category_4" onclick="showResult('Category_4')"><p>Category_4</p></a>
+			  <a href="#" id="Category_5" onclick="showResult('Category_5')"><p>Category_5</p></a>
+			  <a href="#" id="Category_6" onclick="showResult('Category_6')"><p>Category_6</p></a>
+			  <a href="#" id="Category_7" onclick="showResult('Category_7')"><p>Category_7</p></a>
 			</div>
 			<div id="job" class="col-md-7 col-lg-7 col-sm-12 col-12 job_view">
 				<?php include 'freelancer.php';?>

@@ -289,6 +289,9 @@ CloseCon($conn);
  </div>
 
 
+
+   <!-- Page Content -->
+
  <div class="container-fluid bg-dark">   
        <div class="container text-white" style="padding: 5% 0% 4% 0%;">
        	<div class="row">

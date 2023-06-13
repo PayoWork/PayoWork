@@ -84,6 +84,14 @@ element.style{
     font-weight: bold;
 }
 
+a.nav-link.rs_menu.text-success{
+    color: black !important;
+}
+
+a.nav-link.rs_menu.text-success:hover{
+    color: #68CDEB !important;
+}
+
 
 
 
@@ -111,7 +119,8 @@ element.style{
     background-size: cover;
 	margin-top: 32px;
 	padding: 11% 10%;
-	
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .rs_call {
@@ -146,7 +155,7 @@ element.style{
 }
 
 .rs_browse_job h3:hover {
-    color: green;
+    color: #176C9C;
 }
 
 .rs_user {
@@ -176,7 +185,9 @@ element.style{
 
 .container-fluid.main_content {
     background-color: #f2f2f2;
+    margin-top: 5vh !important;    
 }
+
 
 .job_view {
     background-color: #fff;
@@ -202,7 +213,7 @@ a#jobs:hover {
 
 .mess {
     height: 59px;
-    background-color: green;
+    background-color: #176C9C;
     color: #fff;
     font-size: 30px;
     border: 2px solid white;

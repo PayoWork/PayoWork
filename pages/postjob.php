@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
     <meta name="author" content="">
 
     <title>Logo Nav - Start Bootstrap Template</title>
-    <link rel="shortcut icon" type="image/x-icon" href="../resources/icon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="../resources/work.png" />
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -203,13 +203,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
               <h3 class="text-left text-success">Choose Catagory</h3>
               
               <a href="#" id="job" onclick="showResult('all')"><p>All Jobs</p></a>
-              <a href="#" id="web" onclick="showResult('web')"><p>Web Design</p></a>
-              <a href="#" id="graphics" onclick="showResult('graphics')"><p>Graphics Design</p></a>
-              <a href="#" id="content" onclick="showResult('content')"><p>Content Writing</p></a>
-              <a href="#" id="marketing" onclick="showResult('marketing')"><p>Digital Marketing</p></a>
-              <a href="#" id="seo" onclick="showResult('seo')"><p>SEO</p></a>
-              <a href="#" id="mobile" onclick="showResult('mobile')"><p>Mobile Development</p></a>
-              <a href="#" id="desktop" onclick="showResult('desktop')"><p>Desktop Apps</p></a>
+              <a href="#" id="Category_1" onclick="showResult('Category_1')"><p>Category 1</p></a>
+              <a href="#" id="Category_2" onclick="showResult('Category_2')"><p>Category 2</p></a>
+              <a href="#" id="Category_3" onclick="showResult('Category_3')"><p>Category 3</p></a>
+              <a href="#" id="Category_4" onclick="showResult('Category_4')"><p>Category 4</p></a>
+              <a href="#" id="Category_5" onclick="showResult('Category_5')"><p>Category 5</p></a>
+              <a href="#" id="Category_6" onclick="showResult('Category_6')"><p>Category 6</p></a>
+              <a href="#" id="Category_7" onclick="showResult('Category_7')"><p>Category 7</p></a>
             </div>
             <div id="job" class="col-md-7 col-lg-7 col-sm-12 col-12 job_view">
                 <?php include 'freelancer.php';?>
@@ -235,14 +235,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
             <br>
             <span>Choose Catagory</span><br>
             <select class="form-control" name="catagory">
-            <option value="all">Don't Know</option>
-            <option value="web">Web Development</option>
-            <option value="graphics">Graphics Design</option>
-            <option value="content">Content Writing</option>
-            <option value="digital">Digital Marketing</option>
-            <option value="seo">SEO</option>
-            <option value="mobile">Mobile Development</option>
-            <option value="desktop">Desktop Apps</option>
+            <option value="all">Dont Know</option>
+            <option value="Category_1">Category 2</option>
+            <option value="Category_2">Category 3</option>
+            <option value="Category_3">Category 4</option>
+            <option value="Category_4">Category 5</option>
+            <option value="Category_5">Category 6</option>
+            <option value="Category_6">Category 7</option>
+            <option value="Category_7">Category 8</option>
             </select><br>
             <input type="submit" class="btn btn-success" value="Add Job">
         </form>
@@ -329,49 +329,49 @@ CloseCon($conn);
 
 
     <!-- Page Content -->
-   <div class="container-fluid bg-dark">   
-       <div class="container text-white" style="padding: 5% 0% 8% 0%;">
-        <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-                <h2>HireSeller</h2>         
-                <hr width="100%" color=white>
-                <p>
-                    Stay On Your Track <br>
-                    Reach Your Goal and <br>
-                    Become Succesful In <br>
-                    Your Track and Claim<br>
-                    Become Succesful In <br>
-                </p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-                <h2>HireSeller</h2>
-                <hr width="100%" color=white>
-                <p>
-                    Stay On Your Track <br>
-                    Reach Your Goal and <br>
-                    Become Succesful In <br>
-                    Your Track and Claim<br>
-                    Become Succesful In <br>
-                </p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
-                <h2>Address</h2>        
-                <hr width="100%" color=white>
-                <p>
-                    AIUB Permanent Campus<br>
-                    k/160, Kuril, Vatara<br>
-                    Dhaka-1229<br>
-                    Bangladesh<br>
-                    01700000000
-                </p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14600.265022759153!2d90.41790391977541!3d23.816242900000013!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c711d13bbec7%3A0xc47f7c3e8e2263f2!2sAmerican+International+University-Bangladesh!5e0!3m2!1sen!2sbd!4v1543597376859" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
+    <div class="container-fluid bg-dark">   
+       <div class="container text-white" style="padding: 5% 0% 4% 0%;">
+       	<div class="row">
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>PayoWork</h2>			
+       			<hr width="100%" color=white>
+       			<p>
+       				Versatile freelancing platform <br>
+       				that offers a wide range of <br>
+       				both online and offline work  <br>
+       				opportunities for individuals <br>
+       				seeking flexible employment.<br>
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>For Clients</h2>
+       			<hr width="100%" color=white>
+       			<p>
+                Find Freelancers<br>
+                Post Project<br>
+                Privacy Policy<br>
+       				<!-- Your Track and Claim<br>
+       				Become Succesful In <br> -->
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>Call Us</h2>		
+       			<hr width="100%" color=white>
+       			<p>
+       				Bijeswori<br>
+       				Sainik Awas Marga - 15<br>
+       				Kathmandu 44600<br>
+       				Nepal<br>
+       				+977-9860762545
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12">
+             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d220.75989523238164!2d85.29897994838544!3d27.712397548022437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snp!4v1686626338987!5m2!1sen!2snp" width="275" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       		</div>
 
-        </div>
-            <br>
-        <p style="text-align: center;" class="text-white">© 2015 - 2018 HireSeller® Global Inc.</p>
+       	</div>
+       		<br>
+       	<p style="text-align: center; v" class="text-white">© 2023 PayoWork® Nepal Inc.</p>
        </div>
  </div>
 
