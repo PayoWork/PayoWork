@@ -12,7 +12,6 @@
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
-  --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
@@ -20,7 +19,7 @@
   --gray-dark: #343a40;
   --primary: #007bff;
   --secondary: #6c757d;
-  --success: #28a745;
+  --success: #F2FAFA s;
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
@@ -1931,7 +1930,7 @@ select.form-control-lg:not([size]):not([multiple]) {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #28a745;
+  color: #F2FAFA ;
 }
 .valid-tooltip {
   position: absolute;

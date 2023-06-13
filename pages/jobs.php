@@ -19,6 +19,7 @@ session_start();
 
     <!-- Custom styles for this template -->
     <link href="../css/hs_style.css" rel="stylesheet">
+    <link href="../css/new.css" rel="stylesheet">
 
     <script>
         function showResult(str) {
@@ -95,13 +96,13 @@ session_start();
 			  <h1 class="text-left text-success-category">Choose Catagory</h1>
 			  
 			  <a href="#" id="jobs" onclick="showResult('all')"><p>All Jobs</p></a>
-			  <a href="#" id="web" onclick="showResult('web')"><p>Category 1</p></a>
-			  <a href="#" id="graphics" onclick="showResult('graphics')"><p>Category 2</p></a>
-			  <a href="#" id="content" onclick="showResult('content')"><p>Category 3</p></a>
-			  <a href="#" id="marketing" onclick="showResult('marketing')"><p>Category 4</p></a>
-			  <a href="#" id="seo" onclick="showResult('seo')"><p>Category 5</p></a>
-			  <a href="#" id="mobile" onclick="showResult('mobile')"><p>Category 6</p></a>
-			  <a href="#" id="desktop" onclick="showResult('desktop')"><p>Category 7</p></a>
+			  <a href="#" id="Category_1" onclick="showResult('Category_1')"><p>Category 1</p></a>
+			  <a href="#" id="Category_2" onclick="showResult('Category_2')"><p>Category 2</p></a>
+			  <a href="#" id="Category_3" onclick="showResult('Category_3')"><p>Category 3</p></a>
+			  <a href="#" id="Category_4" onclick="showResult('Category_4')"><p>Category 4</p></a>
+			  <a href="#" id="Category_5" onclick="showResult('Category_5')"><p>Category 5</p></a>
+			  <a href="#" id="Category_6" onclick="showResult('Category_6')"><p>Category 6</p></a>
+			  <a href="#" id="Category_7" onclick="showResult('Category_7')"><p>Category 7</p></a>
 			</div>
 			<div id="job" class="col-md-9 col-lg-9 col-sm-12 col-12">
 				<div id="alljob">

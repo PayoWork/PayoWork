@@ -57,7 +57,7 @@ $conn->close();
     <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
       <div class="container">
         <a class="navbar-brand" href="../index.php">
-          <img src="../resources/logo_light.png" width="160" height="50" alt="">
+          <img src="../resources/payowork.png" width="160" height="100" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -82,7 +82,7 @@ $conn->close();
     </nav>
 
 
-<div class="container-fluid main_content" style="margin-top: 2%;">
+<div class="container-fluid main_content" style="margin-top: 4%;">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-lg-2 " style="padding-top: 2%;">
@@ -94,6 +94,25 @@ $conn->close();
                 <div style="background-color: #f9f9f9; padding: 4%; border-bottom: 1px solid #c3c3c3;">
             <h4 class="text-left">Message User</h4>
           </div>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <?php
 
         if($type == 1)
@@ -183,6 +202,53 @@ CloseCon($conn);
         </div>
         </div>
     </div>
+
+
+    <div class="container-fluid bg-dark">   
+       <div class="container text-white" style="padding: 5% 0% 4% 0%;">
+       	<div class="row">
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>PayoWork</h2>			
+       			<hr width="100%" color=white>
+       			<p>
+       				Versatile freelancing platform <br>
+       				that offers a wide range of <br>
+       				both online and offline work  <br>
+       				opportunities for individuals <br>
+       				seeking flexible employment.<br>
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>For Clients</h2>
+       			<hr width="100%" color=white>
+       			<p>
+                Find Freelancers<br>
+                Post Project<br>
+                Privacy Policy<br>
+       				<!-- Your Track and Claim<br>
+       				Become Succesful In <br> -->
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12 rs_foot">
+       			<h2>Call Us</h2>		
+       			<hr width="100%" color=white>
+       			<p>
+       				Bijeswori<br>
+       				Sainik Awas Marga - 15<br>
+       				Kathmandu 44600<br>
+       				Nepal<br>
+       				+977-9860762545
+       			</p>
+       		</div>
+       		<div class="col-lg-3 col-md-3 col-sm-6 col-12">
+             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d220.75989523238164!2d85.29897994838544!3d27.712397548022437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snp!4v1686626338987!5m2!1sen!2snp" width="275" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       		</div>
+
+       	</div>
+       		<br>
+       	<p style="text-align: center; v" class="text-white">© 2023 PayoWork® Nepal Inc.</p>
+       </div>
+ </div>
     
 </body>
 </html>
