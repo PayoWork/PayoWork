@@ -117,9 +117,9 @@ session_start();
        
     </div>
 
-    <div class="container-fluid bg-success">
+    <div class="container-fluid bg-success" style='padding: 5% 0% 8% 0%;'>
        
-       <div class="container" style="padding: 5% 0% 8% 0%;">
+       <div class="container1" style="padding: 5% 0% 8% 0%;" style="background-color: #5D8AA8;">
          <h1 class="text-center text-white">How It Works</h1>
          <hr class="rs_hr" color=white>
          <div class="row">
@@ -240,8 +240,8 @@ session_start();
     </div>
  </div>
 
-<div class='container-fluid bg-success'>   
-       <div class='container' style='padding: 5% 0% 8% 0%;'>
+<div class='container-fluid bg-success' style='padding: 5% 0% 8% 0%;'>   
+       <div class='container1' style='padding: 5% 0% 8% 1%;' style='background-color: #5D8AA8;'>
 
           <h1 class='text-center text-white'>Top Rated Freelancer</h1>
          <hr class='rs_hr' color=white>
