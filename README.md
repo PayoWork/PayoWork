@@ -20,10 +20,9 @@ PayoWork is a freelancing platform specifically designed for individuals and bus
 To get started with PayoWork, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/payowork/payowork.git`
-2. Install dependencies: `npm install`
-3. Set up the database: create database named **hireseller** and import **hireseller.sql** from sql server
-4. Access PayoWork in your browser at http://localhost/PayoWork
-5. Use Website offline or online at [PayoWork](https://www.yugeshrajshilakar.com)
+2. Set up the database: create database named **hireseller** and import **hireseller.sql** from sql server
+3. Access PayoWork in your browser at http://localhost/PayoWork
+4. Use Website offline or online at [PayoWork](https://www.yugeshrajshilakar.com)
 
 # Contributors
 - [Bishesh Sthapit](https://github.com/bishesh55)
