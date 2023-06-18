@@ -98,7 +98,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
             {
                 echo "<div>
                 <div style='background-color: #28a745; padding: 4%; border-bottom: 1px solid #c3c3c3;'>
-            <span class='text-left text-white' style='line-height: 27px; font-size: 21px; font-weight: 400;'>Submit A Proposal</span>
+            <span class='text-left text-white' style='line-height: 27px; font-size: 21px; font-weight: 400; color: black;'>Submit A Proposal</span>
           </div>
           <div style='background-color: #f9f9f9; padding: 4%; border-bottom: 1px solid #c3c3c3;'>
              <form action='addToBid.php' method='POST'>
