@@ -21,6 +21,7 @@ if (!(isset($_SESSION['loggedUser']))){
     <link rel="shortcut icon" type="image/x-icon" href="../resources/work.png" />
 
     <!-- Bootstrap core CSS -->
+    <!-- <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     
 

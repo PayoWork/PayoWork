@@ -4,6 +4,10 @@ body {
   font-family: "Gotham SSm",Helvetica,Arial,sans-serif;
 }
 
+::-webkit-scrollbar {
+    width: 0px !important;
+  }
+
 
 
 @media (min-width: 992px) {
@@ -171,7 +175,7 @@ a.nav-link.rs_menu.text-success:hover{
 }
 
 .rs_user:hover {
-    color: green;
+    
     border: 2px solid #fff;
 }
 
